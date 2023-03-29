@@ -1,0 +1,17 @@
+.block{
+  height: 100vh;
+  position: fixed;
+  width: 100px;
+  font-family: 'Lato';
+  background-color: #192f48;
+}
+.Dashboard{
+  margin-left: 100px;
+  width: 100%;
+  padding: 24px;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.App{
+  display: flex;
+}

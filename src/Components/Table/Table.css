@@ -1,0 +1,25 @@
+.table{
+    margin-top: 24px;
+    width: 100%;
+    font-size: 12px;
+}
+th{
+    color: #717171;
+    text-align: left;
+    width: 1%;
+    border-bottom: 1px solid #ccc;
+}
+td{
+    border-bottom: 1px solid #ccc;
+}
+.icons{
+    display: grid;
+    width: 16px;
+}
+.heading{
+    justify-content: space-around;
+    display: flex;
+}
+.icon:hover{
+    color: #3B71CA;
+}

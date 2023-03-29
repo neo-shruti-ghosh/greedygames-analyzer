@@ -1,0 +1,40 @@
+.datepicker{
+    margin-top: 24px;
+    display: flex;
+    gap: 10px;
+    width: fit-content;
+}
+.all{
+    margin-top: 24px;
+    display: block;
+}
+Button{
+    width: 200px;
+}
+Table{
+    display: block;
+}
+.select-dates:hover{
+    cursor: pointer;
+}
+.spinner{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+.options{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.box-option{
+    border: 1px solid #d3d3d3;
+    width: 150px;
+    text-align: center;
+    padding-top: 3px;
+    height: 35px;
+    border-radius: 20px;
+}
+.setting:hover{
+    cursor: pointer;
+}
